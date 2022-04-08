@@ -21,7 +21,9 @@ file1_name.my_function()
 ```
 
 ## Author
-Shyoutarou
+[Karina Kato](https://br.linkedin.com/in/karinakato)
+Machine Learning Engineer, Take Blip
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
